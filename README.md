@@ -21,7 +21,7 @@ This project analyzes hotel booking data to evaluate revenue performance, occupa
 - Elite & Premium rooms generate maximum revenue.
 - Business category contributes majority revenue share.
 
- ### Skills Used
+ ### Skills Used:-
 
 - MySQL (Joins, Group By, Aggregations)
 - Data Cleaning & Transformation
