@@ -2,6 +2,8 @@
 
 This project analyzes hotel booking data to evaluate revenue performance, occupancy trends, booking behavior, and property-level performance across multiple cities.
 
+Dashboards/Hospitality_Analytics_Dashboard.png
+
 # The dashboard provides insights into:-
 
 - Revenue distribution by room class
