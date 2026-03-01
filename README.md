@@ -4,12 +4,12 @@ This project analyzes hotel booking data to evaluate revenue performance, occupa
 
 The dashboard provides insights into:-
 
-Revenue distribution by room class
-Booking status analysis (Checked-out, Cancelled, No-show)
-Property-wise performance
-Weekday vs Weekend revenue trends
-Category-level revenue contribution
-Occupancy and cancellation analysis
+- Revenue distribution by room class
+- Booking status analysis (Checked-out, Cancelled, No-show)
+- Property-wise performance
+- Weekday vs Weekend revenue trends
+- Category-level revenue contribution
+- Occupancy and cancellation analysis
 
 📊 Key Business Insights:-
 
